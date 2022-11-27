@@ -1,4 +1,4 @@
-# Go 泛型约束
+# Go 泛型类型约束
 
 # 一、为什么有这个？
 - Go原生的`golang.org/x/exp/constraints`已经被被官方标记为不推荐，随时可能会移除
